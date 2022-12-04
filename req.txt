@@ -1,1 +1,8 @@
-
+yaml
+ctypes
+requests
+emoji_list
+urllib
+random
+itertools
+threading
